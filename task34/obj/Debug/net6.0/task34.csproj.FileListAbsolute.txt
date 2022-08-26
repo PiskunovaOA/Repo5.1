@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\bin\Debug\net6.0\task34.exe
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\bin\Debug\net6.0\task34.deps.json
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\bin\Debug\net6.0\task34.runtimeconfig.json
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\bin\Debug\net6.0\task34.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\bin\Debug\net6.0\task34.pdb
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.AssemblyInfo.cs
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\refint\task34.dll
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.pdb
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\task34.genruntimeconfig.cache
+D:\GeekBrains\3. Язык программирования С#\Семинар 5\GITSS5C#\Tasks\task34\obj\Debug\net6.0\ref\task34.dll
